@@ -31,12 +31,19 @@
 ## 🗂️ Estrutura do Projeto
 
 grana-guru-backend/
+
 ├── controller/ # Controllers REST
+
 ├── model/ # Entidades JPA
+
 ├── repository/ # Repositórios Spring Data
+
 ├── service/ # Lógica de negócios
+
 ├── GranaGuruApplication.java
+
 └── resources/
+
 └── application.properties
 
 ---
